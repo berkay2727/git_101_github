@@ -1,3 +1,4 @@
 yeni bir dosya
 editleyelim
 github'da editledim
+tekrar localde editledim
